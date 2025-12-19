@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I",
+    "I",
+    "S"
+  ],
+  "key": {
+    "I": { "item": "decertium:decertium_ingot" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "decertium:decertium_sword" }
+}

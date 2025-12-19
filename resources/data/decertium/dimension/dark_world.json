@@ -1,0 +1,11 @@
+{
+  "type": "decertium:dark_world",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "decertium:dark_plains"
+    },
+    "settings": "minecraft:overworld"
+  }
+}

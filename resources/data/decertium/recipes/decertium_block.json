@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "decertium:decertium_ingot"
+    }
+  },
+  "result": {
+    "item": "decertium:decertium_block"
+  }
+}

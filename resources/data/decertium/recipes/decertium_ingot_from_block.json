@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "decertium:decertium_block"
+    }
+  ],
+  "result": {
+    "item": "decertium:decertium_ingot",
+    "count": 9
+  }
+}

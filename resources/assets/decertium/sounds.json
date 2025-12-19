@@ -1,0 +1,12 @@
+{
+  "block.dark_world_portal.open": {
+    "sounds": [
+      { "name": "minecraft:block/portal/trigger" }
+    ]
+  },
+  "entity.decertus.roar": {
+    "sounds": [
+      { "name": "minecraft:entity/warden/roar" }
+    ]
+  }
+}

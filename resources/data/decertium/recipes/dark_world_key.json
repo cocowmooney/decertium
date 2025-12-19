@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " SI",
+    "FEF",
+    "IS "
+  ],
+  "key": {
+    "S": { "item": "decertium:decertium_shard" },
+    "I": { "item": "decertium:decertium_ingot" },
+    "F": { "item": "minecraft:flint_and_steel" },
+    "E": { "item": "minecraft:ender_eye" }
+  },
+  "result": { "item": "decertium:dark_world_key" }
+}

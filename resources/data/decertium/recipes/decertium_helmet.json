@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I I"
+  ],
+  "key": {
+    "I": { "item": "decertium:decertium_ingot" }
+  },
+  "result": { "item": "decertium:decertium_helmet" }
+}

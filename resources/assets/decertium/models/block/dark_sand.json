@@ -1,0 +1,9 @@
+{
+  "parent": "block/sand",
+  "textures": {
+    "particle": "decertium:block/dark_sand",
+    "bottom": "decertium:block/dark_sand",
+    "top": "decertium:block/dark_sand",
+    "side": "decertium:block/dark_sand"
+  }
+}
